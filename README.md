@@ -50,5 +50,14 @@ The redesigned interface provides a **smooth, fast, and visually appealing** flo
 - Estimated delivery time
 
 Here is the viual mockups:
+<img width="8491" height="4272" alt="Image" src="https://github.com/user-attachments/assets/efc4773b-26ea-4ffd-997d-d39062cb751b" />
 
+## 📌 Conclusion  
+This restaurant app UI/UX design focuses on:
+- Clean navigation  
+- Fast ordering  
+- Visual food discovery  
+- Clear menu hierarchy  
+- User-friendly checkout  
 
+It provides a modern digital dining experience with attractive visuals and an intuitive flow.
